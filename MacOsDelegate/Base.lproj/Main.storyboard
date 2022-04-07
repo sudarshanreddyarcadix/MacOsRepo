@@ -710,9 +710,9 @@
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="NdA-Jm-M2Y">
-                                <rect key="frame" x="150" y="90" width="76" height="16"/>
+                                <rect key="frame" x="150" y="90" width="130" height="16"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <textFieldCell key="cell" lineBreakMode="clipping" title="Sample app" id="0nD-BY-XN6">
+                                <textFieldCell key="cell" lineBreakMode="clipping" title="Sample app updated" id="0nD-BY-XN6">
                                     <font key="font" usesAppearanceFont="YES"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
